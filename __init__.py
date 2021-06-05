@@ -21,8 +21,8 @@ class Whybundy(MycroftSkill):
        nw_arr=[nw.hour, nw.minute]
        st_arr=[2,45] #smokeo start time hour and minute
        en_arr=[3,0] #smokeo end time hour and minute
-       als_arr=[3,15] #annual leave start time hour and minute
-       ale_arr=[4,0] #annual leave end time hour and minute
+       als_arr=[2,39] #annual leave start time hour and minute
+       ale_arr=[2,44] #annual leave end time hour and minute
        #st = dt.datetime(2021,6,4,6,10,0)
        #en = dt.datetime(2021,6,4,6,14,0)
        #st = time.strftime("06:00:00")
